@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T06:50:15.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="emiG1W5gZAfA_7zNhmEZ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T06:59:25.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="4duwVwo1Wsgy-0mm7_17" version="17.4.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,8 +106,8 @@
         <mxCell id="IboOVLr7oUpnxhzywGf7-83" value="填写表单，提交表单" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="715" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l4G0WWd9K2WXSb8Dgo5U-1" value="表单系统功能说明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="30" width="480" height="30" as="geometry" />
+        <mxCell id="l4G0WWd9K2WXSb8Dgo5U-1" value="表单系统角色功能" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4G0WWd9K2WXSb8Dgo5U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l4G0WWd9K2WXSb8Dgo5U-3" target="l4G0WWd9K2WXSb8Dgo5U-7">
           <mxGeometry relative="1" as="geometry" />
@@ -422,6 +422,19 @@
         </mxCell>
         <mxCell id="l4G0WWd9K2WXSb8Dgo5U-130" value="&lt;font style=&quot;font-size: 12px&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="935" y="1960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4G0WWd9K2WXSb8Dgo5U-133" value="&amp;nbsp;· 拖拽表单组件，可视化&lt;br&gt;&amp;nbsp; &amp;nbsp;设计表单&lt;br&gt;&lt;br&gt;&amp;nbsp;· 设置表单属性&lt;br&gt;&amp;nbsp; &amp;nbsp; · 是否是隐藏字段&lt;br&gt;&amp;nbsp; &amp;nbsp; · 在哪个节点展示&lt;br&gt;&amp;nbsp; &amp;nbsp; · 在哪个节点填写&lt;br&gt;&amp;nbsp; &amp;nbsp; · ......" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1220" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l4G0WWd9K2WXSb8Dgo5U-136" value="" style="curved=1;endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontSize=12;jumpStyle=none;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="l4G0WWd9K2WXSb8Dgo5U-133" target="l4G0WWd9K2WXSb8Dgo5U-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="1140" as="sourcePoint" />
+            <mxPoint x="135" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="1180" />
+              <mxPoint x="100" y="1120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
