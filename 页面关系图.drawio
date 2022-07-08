@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T08:30:29.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gGLt4LKDm0JAcDpsYWGw" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T09:13:27.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KGYcgKymuj1YA7jLlh-x" version="20.0.4" type="github">
   <diagram id="Mhiz0TYbnqHUInZX7yoO" name="Page-1">
-    <mxGraphModel dx="1094" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="912" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1359,6 +1359,14 @@
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-506" value="W7900314：查询资金账号可用资金" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-500">
           <mxGeometry y="180" width="187.72" height="46.06" as="geometry" />
         </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-542" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#0071D5;strokeColor=#0085FC;strokeWidth=1;" edge="1" parent="1" source="RmsIAJbYhFThGV-NR5GQ-510" target="RmsIAJbYhFThGV-NR5GQ-529">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-543" value="点击立即购买" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#0071D5;" vertex="1" connectable="0" parent="RmsIAJbYhFThGV-NR5GQ-542">
+          <mxGeometry x="0.1531" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-510" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#DFEEFB;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;container=0;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1413.99" width="430" height="306.01" as="geometry" />
         </mxCell>
@@ -1403,6 +1411,42 @@
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-522" value="W7900314：查询资金账号可用资金" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-517">
           <mxGeometry y="180" width="187.72" height="46.06" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-528" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#DFEEFB;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="1800" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-529" value="&lt;font color=&quot;#0071d5&quot;&gt;&lt;b&gt;天汇宝交易申请结果页&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#C2E2FF;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="1800" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-530" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#1CA5B8;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1260.5" y="1860" width="180" height="116.01" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-531" value="组件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#E5FCFF;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;fontColor=#1CA5B8;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-530">
+          <mxGeometry width="179.99999999999997" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-532" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;账户和投资总额&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-530">
+          <mxGeometry width="179.99999999999997" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-533" value="天汇宝产品详情表格" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-530">
+          <mxGeometry width="180" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-534" value="查看交易记录按钮组件" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-530">
+          <mxGeometry y="90" width="180" height="26.01" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-535" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1460.5" y="1860" width="187.72" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-536" value="&lt;font color=&quot;#db2843&quot;&gt;接口&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#FFE5E9;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;fontColor=#1CA5B8;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-535">
+          <mxGeometry width="187.72" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-537" value="W7900411： 资金账号反查交易员和审核员" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-535">
+          <mxGeometry width="187.72" height="50" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
