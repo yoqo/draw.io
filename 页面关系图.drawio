@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T09:58:41.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GT_sm0ThEMuSKeshd8Xr" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T10:22:37.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dDPn9Z1bXThayvjqs8b-" version="20.0.4" type="github">
   <diagram id="Mhiz0TYbnqHUInZX7yoO" name="Page-1">
-    <mxGraphModel dx="3220" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -597,54 +597,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-619" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#DB2843;strokeColor=#0085FC;strokeWidth=1;" edge="1" parent="1" source="RmsIAJbYhFThGV-NR5GQ-241">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2925" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-620" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;点击立即认/申购&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#0071D5;" vertex="1" connectable="0" parent="RmsIAJbYhFThGV-NR5GQ-619">
+          <mxGeometry x="0.2225" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-241" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#DFEEFB;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="1196.01" width="430" height="260" as="geometry" />
+          <mxGeometry x="2710" y="1196.01" width="430" height="193.99" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-242" value="&lt;font color=&quot;#0071d5&quot;&gt;&lt;b&gt;权限管理&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#C2E2FF;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="1">
           <mxGeometry x="2710" y="1196.01" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-243" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#1CA5B8;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2730" y="1256.01" width="180" height="120" as="geometry" />
+          <mxGeometry x="2730" y="1256.01" width="180" height="63.99" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-244" value="组件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#E5FCFF;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;fontColor=#1CA5B8;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-243">
           <mxGeometry width="179.99999999999997" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RmsIAJbYhFThGV-NR5GQ-245" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;资产总览&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-243">
-          <mxGeometry width="179.99999999999997" height="30" relative="1" as="geometry">
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-245" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;权限用户表格&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-243">
+          <mxGeometry width="180" height="40" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmsIAJbYhFThGV-NR5GQ-246" value="资产分布占比图" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-243">
-          <mxGeometry width="179.99999999999997" height="30" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RmsIAJbYhFThGV-NR5GQ-247" value="资产分布表格" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-243">
-          <mxGeometry y="90" width="179.99999999999997" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-248" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2930" y="1256.01" width="187.72" height="180" as="geometry" />
+          <mxGeometry x="2930" y="1256.01" width="187.72" height="83.99" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-249" value="&lt;font color=&quot;#db2843&quot;&gt;接口&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#FFE5E9;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;fontColor=#1CA5B8;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-248">
           <mxGeometry width="187.72" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RmsIAJbYhFThGV-NR5GQ-250" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;W7900317：机构持仓用户列表&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-248">
-          <mxGeometry width="187.72" height="30" relative="1" as="geometry">
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-250" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;authUrseList() -&amp;gt;&amp;nbsp; W7900408：权限用户列表&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-248">
+          <mxGeometry width="187.72" height="60" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RmsIAJbYhFThGV-NR5GQ-251" value="W7900134：获取基金公司" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-248">
-          <mxGeometry width="187.72" height="30" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RmsIAJbYhFThGV-NR5GQ-252" value="W7900210：添加/删除自选" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-248">
-          <mxGeometry y="1" width="187.72" height="41" relative="1" as="geometry">
-            <mxPoint y="-41" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RmsIAJbYhFThGV-NR5GQ-253" value="W7900220：购物车或申购时合同查询" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-248">
-          <mxGeometry y="90" width="187.72" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#0071D5;strokeColor=#0085FC;strokeWidth=1;exitX=1.002;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RmsIAJbYhFThGV-NR5GQ-217">
           <mxGeometry relative="1" as="geometry">
@@ -1699,6 +1688,43 @@
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-610" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;头部&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontColor=#DB2843;" vertex="1" parent="1">
           <mxGeometry x="970" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-611" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#DFEEFB;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;container=0;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="1453.99" width="430" height="416.01" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-612" value="&lt;font color=&quot;#0071d5&quot;&gt;&lt;b&gt;权限编辑&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#C2E2FF;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="1453.99" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-613" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#1CA5B8;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="1513.99" width="180" height="146.57" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-614" value="组件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#E5FCFF;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;fontColor=#1CA5B8;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-613">
+          <mxGeometry width="179.99999999999997" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-615" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;交易权限表格&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-613">
+          <mxGeometry width="180" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-621" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基金公司名单表格&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-613">
+          <mxGeometry y="59.72" width="180" height="30.28" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-622" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基金产品名单表格&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-613">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-623" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;审核权限表格&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-613">
+          <mxGeometry y="120" width="180" height="26.57" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-616" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2930" y="1513.99" width="187.72" height="83.99" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-617" value="&lt;font color=&quot;#db2843&quot;&gt;接口&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#FFE5E9;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;fontColor=#1CA5B8;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-616">
+          <mxGeometry width="187.72" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RmsIAJbYhFThGV-NR5GQ-618" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;authUrseList() -&amp;gt;&amp;nbsp; W7900408：权限用户列表&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-616">
+          <mxGeometry width="187.72" height="60" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
