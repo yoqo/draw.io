@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T01:33:18.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sKwIZulL0M9JDZVLM5LH" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T01:44:14.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FyTe7o6h09GBW0KUqgqU" version="20.0.4" type="github">
   <diagram id="Mhiz0TYbnqHUInZX7yoO" name="Page-1">
     <mxGraphModel dx="1296" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1690,7 +1690,7 @@
           <mxGeometry x="970" y="360" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-611" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#DFEEFB;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;container=0;" parent="1" vertex="1">
-          <mxGeometry x="2710" y="1453.99" width="430" height="246.01" as="geometry" />
+          <mxGeometry x="2710" y="1453.99" width="430" height="576.01" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-612" value="&lt;font color=&quot;#0071d5&quot;&gt;&lt;b&gt;权限编辑&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#C2E2FF;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" parent="1" vertex="1">
           <mxGeometry x="2710" y="1453.99" width="430" height="40" as="geometry" />
@@ -1716,7 +1716,7 @@
           <mxGeometry y="120" width="180" height="26.57" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-616" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DB2843;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2930" y="1513.99" width="187.72" height="160" as="geometry" />
+          <mxGeometry x="2930" y="1513.99" width="187.72" height="496.01" as="geometry" />
         </mxCell>
         <mxCell id="RmsIAJbYhFThGV-NR5GQ-617" value="&lt;font color=&quot;#db2843&quot;&gt;接口&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#FFE5E9;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=16;fontColor=#1CA5B8;" parent="RmsIAJbYhFThGV-NR5GQ-616" vertex="1">
           <mxGeometry width="187.72" height="30" relative="1" as="geometry" />
@@ -1727,7 +1727,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iEG8LQjkKPKFwfCT04Te-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;authJyList() -&amp;gt;&amp;nbsp; W7900403：审核权限查询&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-616">
-          <mxGeometry y="86.01" width="187.72" height="73.99" as="geometry" />
+          <mxGeometry y="87.0094409745142" width="187.72" height="62.28922635407397" as="geometry" />
+        </mxCell>
+        <mxCell id="iEG8LQjkKPKFwfCT04Te-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;W7900110：获取基金研究表格数据&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-616">
+          <mxGeometry y="149.3" width="187.72" height="60.7" as="geometry" />
+        </mxCell>
+        <mxCell id="iEG8LQjkKPKFwfCT04Te-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;companyAndProduct() -&amp;gt;&amp;nbsp; W7900406：基金公司，基金产品黑白名单查询&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-616">
+          <mxGeometry y="210" width="187.72" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iEG8LQjkKPKFwfCT04Te-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;authShList() -&amp;gt;&amp;nbsp;W7900404:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;审核权限查询&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-616">
+          <mxGeometry y="306.53254545454547" width="187.72" height="63.12854545454545" as="geometry" />
+        </mxCell>
+        <mxCell id="iEG8LQjkKPKFwfCT04Te-5" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;bindingAccount() -&amp;gt;&amp;nbsp; W7900405：绑定账号交易权限、审核权限、解绑账号交易权限、审核权限（只有机构管理员可以操作）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=18;" vertex="1" parent="RmsIAJbYhFThGV-NR5GQ-616">
+          <mxGeometry y="369.66109090909094" width="187.72" height="126.2570909090909" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
